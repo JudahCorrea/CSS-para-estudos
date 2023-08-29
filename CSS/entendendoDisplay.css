@@ -1,0 +1,43 @@
+body {
+    font-size: 32px;
+}
+
+.nome-empresa {
+    background-color: pink;
+}
+
+.segmento-empresa{
+    background-color: red;
+}
+
+.curso-artesao {
+    background-color: #0d0;
+}
+
+.curso-marketing {
+    background-color: #ff1;
+}
+
+.curso-ferramentas {
+    background-color: #0dd;
+}
+
+.curso-lacos {
+    background-color: #e0d;
+}
+
+.nome-empresa , .segmento-empresa {
+    display: block;
+    height: 100px;
+    width: 300px;
+}
+
+.curso-artesao , .curso-marketing {
+    display:inline;
+}
+
+.curso-ferramentas , .curso-lacos {
+    display: inline-block;
+    height: 100px;
+    width: 300px;
+}

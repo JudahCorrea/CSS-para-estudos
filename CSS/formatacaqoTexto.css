@@ -1,0 +1,14 @@
+.nome {
+    color:#f00;
+
+    /*font-size:24px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-family: "Trebuchet MS";
+    font-style:italic;
+    font-weight: bold;*/
+
+    font: italic bold 24px arial, helvetica, sans-serif; /*esta propriedade define toda a fonte escolhida. O parametro dela é : estilo (italic), peso (bold), tamanho da fonte (24px), por ultimo a familia, ou lista de prioridade ( arial, helvetica, sans-serif).*/
+
+    text-decoration: underline;
+    text-align: center;
+}

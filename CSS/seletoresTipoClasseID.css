@@ -1,0 +1,16 @@
+title {
+    color: green;
+}
+
+.destaque{
+    color: red;
+}
+
+#titulo { 
+    color: blue;
+    font-family: Franklin Gothic Medium;
+}
+
+.outrodestaque{
+    font-family: Courier New;
+}

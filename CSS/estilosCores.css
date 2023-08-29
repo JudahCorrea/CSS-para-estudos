@@ -1,0 +1,25 @@
+.caixa1 { /*  nome da cor */
+    background-color : blue;
+    color: white;
+}
+
+.caixa2 { /*  modelo RGB */
+    background-color: rgb(255, 0, 0);
+    color: rgb(0 , 0, 150);
+}
+
+.caixa3 { 
+    background-color: rgb(255, 200, 0);
+    color: rgb(255,255,255);
+}
+
+.caixa4 { /* RGB em HEX */
+    background-color: #FFA3B5;
+    color: #7707FF
+}
+
+.caixa5 {
+    background-color: #afa;
+    color: #fff
+}
+

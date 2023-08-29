@@ -1,0 +1,14 @@
+
+.destaque , .outrodestaque{
+    color: red;
+}
+
+/*.outrodestaque{
+    color: red;
+    font-family: Franklin Gothic Medium;
+}
+ ( a calsse .outrodestaque foi agrupada, devido as propriedades dela está presente em outras calsses oi ID )  */
+
+#titulo , .outrodestaque { 
+    font-family: Franklin Gothic Medium;
+}

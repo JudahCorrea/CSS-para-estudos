@@ -1,0 +1,12 @@
+article > .missao{ /*seleciona apenas os filhos diretos de article */
+    color: red;
+}
+/*
+article > .missao > strong {
+    color: green;
+}
+*/
+
+article .missao > strong{ /* seleciona o filho direto de .missao ( que é neto de article ) */
+    color: yellow;
+}
